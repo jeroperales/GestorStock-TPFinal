@@ -1,0 +1,18 @@
+COSAS QUE NO DEBEN FALTAR EN EL PROYECTO
+-Clases y objetos (Productos) 
+-Herencia 
+-Polimorfismo 
+-Clases abstractas 
+-ArrayList 
+-HashMap
+-HashSet
+-Colecciones
+-Excepciones
+-Throws, try, catch y finally
+-Interfaces
+-Genericidad
+-Archivos (Abrir, cerrar, leer)
+-Clase file para procesar archivos
+-Formatos de intercambio de datos
+-JSON
+-JAR
